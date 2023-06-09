@@ -34,7 +34,7 @@
 ## Team
 | Member |  Lin   | Kimura | 
 | ------ |:------:|:--------:|
-| Duties |   PM/INFRA/frontend/backend    |    backend    | 
+| Duties |   PM/INFRA/frontend/backend    |    backend/INFRA    | 
 | Branch | master | master  | 
 
 ## Program Language
